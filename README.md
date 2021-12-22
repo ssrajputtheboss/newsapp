@@ -4,7 +4,7 @@ news api demo app
 
 ## demo
 
-[!demogif](https://github.com/ssrajputtheboss/newsapp/blob/main/assets/output.gif)
+![demogif](https://github.com/ssrajputtheboss/newsapp/blob/main/assets/output.gif)
 
 ## Drive APK link
 
